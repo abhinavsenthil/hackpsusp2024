@@ -9,10 +9,27 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@aws-amplify/react-native": "^1.0.20",
+    "@aws-amplify/ui-react-native": "^2.1.4",
+    "@expo/vector-icons": "^14.0.0",
+    "@react-native-async-storage/async-storage": "^1.22.3",
+    "@react-native-community/netinfo": "^11.3.1",
+    "@react-navigation/bottom-tabs": "^6.5.19",
+    "@react-navigation/native": "^6.1.16",
+    "@react-navigation/stack": "^6.3.28",
+    "@types/react": "~18.2.45",
+    "aws-amplify": "^6.0.20",
     "expo": "~50.0.13",
+    "expo-camera": "^14.1.1",
+    "expo-image-picker": "^14.7.1",
+    "expo-media-library": "^15.9.1",
+    "expo-router": "^3.4.8",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.5"
+    "react-native": "0.73.5",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-safe-area-context": "4.8.2",
+    "react-native-screens": "~3.29.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

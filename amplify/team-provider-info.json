@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aigarbage-dev-232337-authRole",
+      "UnauthRoleArn": "arn:aws:iam::844670860619:role/amplify-aigarbage-dev-232337-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::844670860619:role/amplify-aigarbage-dev-232337-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-aigarbage-dev-232337-deployment",
+      "UnauthRoleName": "amplify-aigarbage-dev-232337-unauthRole",
+      "StackName": "amplify-aigarbage-dev-232337",
+      "StackId": "arn:aws:cloudformation:us-east-1:844670860619:stack/amplify-aigarbage-dev-232337/94ce8db0-e344-11ee-827a-1281e063c067",
+      "AmplifyAppId": "d2wck34u4rf1ny"
+    },
+    "categories": {
+      "api": {
+        "aigarbage": {}
+      }
+    }
+  }
+}
